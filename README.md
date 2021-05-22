@@ -10,7 +10,7 @@
   <h2>Installation Guide</h2>  
   <p style="text-indent:50px">You can go through the following documentation for installing the prerequisites and get the code running.<br>
   https://guides.rubyonrails.org/getting_started.html</p><br>
-  
+
   | Tools  | Version |
   | ------------- | ------------- |
   | Ruby  | ruby-2.7.2  |
@@ -19,8 +19,9 @@
   | Rails  | Rails 6.1.0  |
   | Gems  | 3.1.4  |
   <h2>Screenshots</h2>
-  <img src="app/assets/images/Screenshot 2021-05-22 200007.png">
+  
   <img src="app/assets/images/Screenshot 2021-05-22 200034.png">
+  <img src="app/assets/images/Screenshot 2021-05-22 200007.png">
   
 </div>
 

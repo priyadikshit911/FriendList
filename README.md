@@ -18,8 +18,8 @@
   | Rails  | Rails 6.1.0  |
   | Gems  | 3.1.4  |
   <h2>Screenshots</h2>
-  <img src="">
-  <img src="">
+  <img src="app/assets/images/Screenshot 2021-05-22 192415.png">
+  <img src="app/assets/images/Screenshot 2021-05-22 192544.png">
   
 </div>
 

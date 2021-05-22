@@ -20,7 +20,7 @@
   | Gems  | 3.1.4  |
   <h2>Screenshots</h2>
   
-  <img src="app/assets/images/Screenshot 2021-05-22 200034.png">
+  <img src="app/assets/images/Screenshot 2021-05-22 200832.png">
   <img src="app/assets/images/Screenshot 2021-05-22 200007.png">
   
 </div>
